@@ -2,7 +2,9 @@
 /task/ spam email classifier 
 
 PROJECT TITLE: SPAM EMAIL CLASSIFIER
+
 Project Description – A simple machine learning model that can classify emails as spam or not spam (ham). 
+
 Steps –
 1. Data Collection- Collected a dataset of emails labeled as spam or ham from dataset on Kaggle.
 2. Data Preprocessing- Cleaned and preprocessing of email data. Like removing special characters, lowercasing, tokenization and removing stop words.
